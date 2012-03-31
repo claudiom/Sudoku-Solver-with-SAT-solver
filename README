@@ -1,0 +1,3 @@
+Sudoku Solver with SAT Solver
+
+This program implements a simple Sudoku solver that transforms an instance of the game into a CNF that is then solved with a SAT solver.
